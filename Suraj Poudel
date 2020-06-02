@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/account.css">
+    <title> Home </title>
+</head>
+
+<body>
+    <header>
+        <span>
+            Futuremate
+        </span>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Pages</a>
+            <a href="#">Sign Up</a>
+            <a href="#"><i class="far fa-search"></i></a>
+        </nav>
+
+    </header>
+    <article id="home">
+
+        <div class="teaser">
+            <div href="#">
+                <h2>
+                    Scholarship
+                </h2>
+                Help find Scholarship
+            </div>
+            <div href="#">
+                <h2>
+                    Internship
+                </h2>
+                Help with internship
+            </div>
+            <div href="volunteer.html">
+                <h2>
+                    Volunteering </h2>
+                Help find volunteering oppurtunities.
+
+
+            </div>
+        </div>
+        <section>
+            <div id="info">
+                sfdg;hj sglk;sj;g lk;sfjg ljg;j slngj;sghlhsg;sjg s;gh s;lkg j;ksgjg sgjlkshg g
+            </div>
+        </section>
+
+    </article>
+    <footer id="mainFooter">
+        <nav id="footerNav">
+            <a href="#">Scholarship</a>
+            <a href="#">Internship</a>
+            <a href="volunteer.html">Volunteering</a>
+        </nav>
+
+        <p>Copyright &copy; 2020 All Rights Reserved</p>
+    </footer>
+
+</body>
+
+</html>
